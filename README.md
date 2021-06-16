@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/evvvrado/evvvrado/img/foto.png" width="300"/>
+<img align="right" src="/img/foto.png" width="300"/>
 
 ### Salve, Veve na área 🖕
 
