@@ -1,8 +1,9 @@
 <img align="right" src="/img/foto.png" width="300"/>
 
-### Salve, Veve na área 🖕
+### Que bom te ver por aqui 😎
 
-"Seu guarda eu não sou vagabundo, não sou delinquente..."
+"Today is always the most enjoyable day"
 
-- 🚀  Chama o pai: everaldocrj@gmail.com ou Twitter [@evvvrado](twitter.com/evvvrado) mas ta block então nem segue.
-- ☁️  Nuvem
+- 🚀  Contato: everaldocrj@gmail.com ou Twitter [@evvvrado](http://twitter.com/evvvrado);
+- ☁️  Sou estudante/apaixonado por desenvolvimento web e design.
+- 👹                                    H Y P 8
