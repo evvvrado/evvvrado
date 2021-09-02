@@ -4,6 +4,6 @@
 
 "Today is always the most enjoyable day"
 
-- 🚀  Contato: everaldocrj@gmail.com ou Twitter [@evvvrado](http://twitter.com/evvvrado);
+- 🚀  Contato: everaldocrj@gmail.com
 - ☁️  Sou estudante/apaixonado por desenvolvimento web e design.
 - 👹                                    H Y P 8
