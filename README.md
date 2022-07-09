@@ -1,4 +1,4 @@
-<img align="right" src="/img/foto.png" width="300"/>
+<img align="right" src="./foto.png" width="300"/>
 
 ### Que bom te ver por aqui 😎
 
