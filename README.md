@@ -1,9 +1,19 @@
-<img align="right" src="./foto.png" width="300"/>
+<img src="./icon.svg" align="right">
 
-### Que bom te ver por aqui 😎
+### 🎃 @evvvrado
 
-"Today is always the most enjoyable day"
+<br>
 
-- 🚀  Contato: <a target="_blank" href="mailto:everaldocrj@gmail.com">everaldocrj@gmail.com</a>
-- ☁️  Sou estudante/apaixonado por desenvolvimento web e design.
-- 👹                                    H Y P 8 - <a target="_blank" href="https://hyp8.com.br">hyp8.com.br</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evvvrado/)](https://www.linkedin.com/in/evvvrado/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/evvvrado)](https://twitter.com/evvvrado)
+[![Gmail Badge](https://img.shields.io/badge/-Contato-ed0d07?style=for-the-badge&labelColor=ed0d07&logo=gmail&logoColor=white&link=mailto:everaldocrj@gmail.com)](mailto:everaldocrj@gmail.com)
+
+<!-- ### Oque eu faço ? -->
+
+#### < Desenvolvedor Front-end, Design Engineer e Creative Developer Student />
+
+<p> No desenvolvimento web enxergo um horizonte de possibilidades criativas, amo pensar na <strong>ARTE</strong> de fazer aplicações que criam experiências únicas para seus usuários. </p>
+
+-   [ReactJS](https://pt-br.reactjs.org) - [Node.js](https://nodejs.org/en/) - [Typescript](https://www.typescriptlang.org) - [PHP](https://www.php.net) - [Laravel](https://laravel.com) - [SASS/SCSS](https://sass-lang.com) - [GSAP](https://greensock.com/gsap/)
+
+<!-- ## -->
