@@ -14,6 +14,6 @@
 
 <p> No desenvolvimento web enxergo um horizonte de possibilidades criativas, amo pensar na <strong>ARTE</strong> de fazer aplicações que criam experiências únicas para seus usuários. </p>
 
--   [ReactJS](https://pt-br.reactjs.org) - [Node.js](https://nodejs.org/en/) - [Typescript](https://www.typescriptlang.org) - [PHP](https://www.php.net) - [Laravel](https://laravel.com) - [SASS/SCSS](https://sass-lang.com) - [GSAP](https://greensock.com/gsap/)
+-   [React.js](https://pt-br.reactjs.org) - [Next.js](https://nextjs.org) - [Node.js](https://nodejs.org/en/) - [TypeScript](https://www.typescriptlang.org) - [SASS/SCSS](https://sass-lang.com) - [GSAP](https://greensock.com/gsap/) - [Framer Motion](framer.com/motion/)
 
 <!-- ## -->
