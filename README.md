@@ -10,9 +10,16 @@
 
 <!-- ### Oque eu faço ? -->
 
-#### < Desenvolvedor Front-end, Design Engineer e Creative Developer Student />
+#### < Design Engineer, Front-end Developer and Crafting things for web />
+<br>
 
-<p> No desenvolvimento web enxergo um horizonte de possibilidades criativas, amo pensar na <strong>ARTE</strong> de fazer aplicações que criam experiências únicas para seus usuários. </p>
+>PT
+<p>No desenvolvimento web enxergo um horizonte de possibilidades criativas, amo pensar na <strong>ARTE</strong> de fazer aplicações que criam experiências únicas para seus usuários.</p>
+
+>ENG
+<p>In web development, I see a horizon of creative possibilities, I love to think about the <strong>ART</strong> of making applications that create unique experiences for their users.</p>
+
+<br>
 
 -   [React.js](https://pt-br.reactjs.org) - [Next.js](https://nextjs.org) - [Node.js](https://nodejs.org/en/) - [TypeScript](https://www.typescriptlang.org) - [SASS/SCSS](https://sass-lang.com) - [GSAP](https://greensock.com/gsap/) - [Framer Motion](framer.com/motion/)
 
